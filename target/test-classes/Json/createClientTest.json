@@ -1,0 +1,10 @@
+{
+  "ClientName" : [ "Arun TBD 12" ],
+  "ConfigName" : [ "new config arun123" ],
+  "DataBase" : [ "Europe PMC" ],
+  "L1ExcReason" : [ "exclusion2 L1", "exclusion1 L1", "exclusion3 L1" ],
+  "L2ExcReason" : [ "L2ExcReason1.", "L2ExcReason2." ],
+  "AddnArticle1" : [ "Title 1 Text", "Help Message 1" ],
+  "AddnArticle2" : [ "Title 2 Text", "Help Message 2" ],
+  "AddnArticle3" : [ "Title 3 Text", "Help Message 3" ]
+}
